@@ -6,7 +6,8 @@ class Program //Write a C# Sharp program to print the sum of two numbers.
         int firstNumber = 7;
         int secondNumber = 12;
 
-        Console.WriteLine(firstNumber + secondNumber);
+        Console.WriteLine($"The sum of {firstNumber} and {secondNumber} is {firstNumber + secondNumber}");
+        
         Console.ReadKey(true);
     }
 }
