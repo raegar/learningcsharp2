@@ -1,9 +1,9 @@
 ﻿namespace learningcsharp2;
-class Program
+class Program //Write a C# Sharp program to print the sum of two numbers.
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Hello, World!");
+        Console.WriteLine(7+12);
         Console.ReadKey(true);
     }
 }
